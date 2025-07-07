@@ -7,4 +7,4 @@ i am engaged in:
 - coding in Lua(U), Python and JavaScript
 
 now working at nothing.
-my contact's --> (here)[https://e-z.bio/cent] <---
+my contact's --> [here](https://e-z.bio/cent) <---
